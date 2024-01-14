@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating cool projects and showing off
 - 🌱 I’m currently learning Frontend and DSA
 - 💞️ I’m looking to collaborate on real time projects
-- 📫 How to reach me <a herf="https://twitter.com/iamfinebrw" >DM on Twitter/a>
+- 📫 How to reach me <a herf="https://twitter.com/iamfinebrw" >DM on Twitter</a>
 - 😄 Pronouns: they/them/xe/xax/xem/xam
 - ⚡ Fun fact: I'm a movie freak
 
